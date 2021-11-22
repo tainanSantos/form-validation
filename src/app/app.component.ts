@@ -24,6 +24,7 @@ export class AppComponent implements OnInit {
     });
   }
 
+
   saveData(): void {
     alert('Olha a gente aqui!!! \n\nSubmitou!!!');
     this.resetForm();
